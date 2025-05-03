@@ -1,0 +1,64 @@
+body{
+  font-family: 'Georgia', serif;
+  line-height: 1.6;
+  max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+    color: #333;
+    background-color:white;
+}
+h1 {
+  color: #291c14;
+  text-align: center;
+  border-bottom: 2px solid #d2b48c;
+  padding-bottom: 10px;
+  background-color: orange;
+  margin-top: -2%;
+}
+.intro{
+  color: rgb(0, 0, 0);
+  font-family: Arial, sans-serif;
+  font-size: 15px;
+  background-color: rgb(231, 217, 187);
+    padding: 10px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color:  #a0522d;
+}
+.recipe-image{
+    text-align: center;
+    margin:  0;
+    
+}
+h2{
+    color: #a0522d;
+    margin-top: 30px;
+    border-left: #4px solid #d2b48c;
+}
+ul, ol{
+    margin-left: 20px;
+}
+.ingredients{
+    background-color:rgb(230, 216, 92) ;
+    padding: 10px;
+    border-radius: 5px;
+    border-style: solid;
+     border-color:  #a0522d;
+}
+.instructions{
+    background-color: rgb(180, 219, 37);
+    padding: 10px;
+    border-radius: 5px;
+    border-style: solid;
+    border-color:  #a0522d;
+    margin-top: 20px;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+     color: #291c14;
+    margin-top: 20px;
+    padding: 10px;
+    background-color: orange;
+    border-top: 1px solid #d2b48c;
+}
